@@ -1,6 +1,4 @@
 # FARHAN-MAHFUDZ_UAS_komputer_grafik
 
 
-
-![image](Screenshot (255).png)
-
+![Uploading Screenshot (255).png…]()
